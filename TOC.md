@@ -15,11 +15,15 @@
 
 ### Data Distribution
 
--
+- Consistency model
+- Failover policy
+- Multi-region write and conflict rez
+- Server-side code
 
+### Whizlabs Questions
 
-
-
+- Practice Test 1:
+  - 1, 4, 6, 7, 12, 16, 22, 27, 29, 36, 38, 45, 
 
 
 
@@ -29,16 +33,13 @@
 
 ### Integration
 
-- Functions
-
-- Raspberry Pi
-
-- Cosmos Spark Connector
-
 - Synapse Link
-
+- Cosmos Spark Connector w/ Databricks
+- Change feed & functions
+- Raspberry Pi IoT
 
 ### Optimization & Monitoring
 
-- Alerts
-- 
+- Alerts (signal:metric; Total Request Units; Dimension:StatusCode; Custom Value 429; threshold >10)
+- Private endpoint (test with nslookup <cosmosdb-account-name>.documents.azure.com)
+- Backup and Restore
