@@ -10,13 +10,14 @@
   - Emulator
 - Portal, PowerShell, CLI, Bicep
 - RBAC and resource tokens
+- Provisioned vs serverless
 - Data ingestion
-
 
 ### Data Distribution
 
-- - SQL querying
-- Consistency model
+- Client connections / dedicated cache
+- SQL querying
+- Consistency models
 - Failover policy
 - Multi-region write and conflict resolution
 - Server-side code
