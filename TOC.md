@@ -11,19 +11,20 @@
 - Portal, PowerShell, CLI, Bicep
 - RBAC and resource tokens
 - Data ingestion
-- SQL querying
+
 
 ### Data Distribution
 
+- - SQL querying
 - Consistency model
 - Failover policy
-- Multi-region write and conflict rez
+- Multi-region write and conflict resolution
 - Server-side code
 
 ### Whizlabs Questions
 
 - Practice Test 1:
-  - 1, 4, 6, 7, 12, 16, 22, 27, 29, 36, 38, 45, 
+  - 1, 4, 6, 7, 12, 16, 22, 27, 29, 36, 38, 45,
 
 
 
