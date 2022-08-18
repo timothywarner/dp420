@@ -33,15 +33,21 @@
 
 ## DAY 2
 
-### Integration
+1. Step through .NET sample project
+2. SQL queries / RU cost
+3. Server-side code
+4. Consistency levels
+5. Multi-master and conflict resolution
+6. Databricks Spark Connector
+7. Synapse Link
+8. Change Feed & Functions
+9. Backup & Restore
+10. Private Endpoint
+11. Alerts
+12. Monitor / Insights / KQL
+13. Practice exam questions
 
-- Synapse Link
-- Cosmos Spark Connector w/ Databricks
-- Change feed & functions
-- Raspberry Pi IoT
 
-### Optimization & Monitoring
+
 
 - Alerts (signal:metric; Total Request Units; Dimension:StatusCode; Custom Value 429; threshold >10)
-- Private endpoint (test with nslookup <cosmosdb-account-name>.documents.azure.com)
-- Backup and Restore
