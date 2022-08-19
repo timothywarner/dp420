@@ -13,6 +13,14 @@
 - Azure Synapse Link docs
 - [Azure Cosmos DB Capacity Calculator](https://cosmos.azure.com/capacitycalculator/)
 - [Azure Cosmos DB Emulator](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator?tabs=ssl-netstd21)
+- [Interactive Azure Infrastructure Map](https://infrastructuremap.microsoft.com/)
+- [Pluralsight: Data Modeling and Partitioning Patterns in Cosmos DB](https://www.pluralsight.com/courses/data-modeling-partitioning-patterns-azure-cosmos-db)
+  - * [Azure SDKs and Tools](https://azure.microsoft.com/en-us/downloads/)
+
+* [Tim's YouTube ARM Templates Tutorial](https://timwinfo-my.sharepoint.com/:x:/g/personal/tim_timw_info/EQRooL1BhnRMjaIx6WEovRYBDXbzHOI1CrtpNls3zesDHw?rtime=TS46Lu0W2Ug)
+- [Sam Cogan ARM tutorial](https://www.youtube.com/watch?v=9EpBiud48Ao&t=1s)
+- [Adam Marczak ARM tutorials](https://www.youtube.com/watch?v=Ge_Sp-1lWZ4&t=916s)
+- [Azure Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
 
 ## Practice
 
@@ -24,6 +32,9 @@
 - [Change Feed Lab](https://docs.microsoft.com/en-us/samples/azure-samples/azure-cosmos-db-change-feed-dotnet-retail-sample/azure-cosmos-db-change-feed-dotnet-retail-sample/)
 - [Azure Cosmos DB Workshop](https://azurecosmosdb.github.io/labs/)
 - [Solliance Cosmos DB Labs](https://github.com/solliancenet/CosmosDB-v3-labs)
+  - * [Azure Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
+
+* [Azure Log Analytics Playground](https://portal.azure.com/#blade/Microsoft_Azure_Monitoring_Logs/DemoLogsBlade)
 
 ## Exam Review
 
