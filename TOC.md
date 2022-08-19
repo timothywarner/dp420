@@ -46,7 +46,8 @@
 11. Private Endpoint
 12. Alerts
 13. Monitor / Insights / KQL
-14. Practice exam questions
+14. Migration tool / ADF
+15. Practice exam questions
 
 
 
